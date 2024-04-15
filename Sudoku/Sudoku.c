@@ -122,7 +122,7 @@ void solve_sudoku_puzzle()
 
 	//print_possible_numbers();
 
-	int number_of_passes = 2;
+	int number_of_passes = 3;
 	for (int i = 0; i < number_of_passes; i++)
 	{
 		//printf("New round\n");
