@@ -1,6 +1,6 @@
 # Sudoku
 
-![alt text](https://github.com/kimlar/Sudoku/blob/master/Sudoku-preview.png "Sudoku solver")
+![alt text](Sudoku-preview.png "Sudoku solver")
 
 A Sudoku solver made in C.
 
